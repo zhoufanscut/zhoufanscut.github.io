@@ -1,0 +1,12 @@
+---
+Layout:	post
+Title:	"思绪将在这里停留"
+date:	2023-05-06 15:32:00 +0800
+---
+
+> 技术自身有价值, 但却不能用来解决问题, 该如何去衡量这个技术?
+
+``` python
+def main():
+  print("Human Knowledge Belongs to The World.")
+```
