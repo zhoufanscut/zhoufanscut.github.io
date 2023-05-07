@@ -12,10 +12,10 @@ typora-root-url: ./
 
 * 男, 胖纸
 
-* 游戏服务端开发(Linux)
+* 游戏服务端开发
 
-* 熟悉C++, Python, 了解C, X86反汇编
+* 熟悉C++、Python、Lua, 了解C、X86反汇编
 
-* 曾热爱信息安全技术
+* 对信息安全技术感兴趣
 
 * 曾经的自留地: [https://blog.csdn.net/gaara_fan](https://blog.csdn.net/gaara_fan)
